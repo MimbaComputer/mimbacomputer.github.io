@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9772deb7f3241fb78f02a2b9fe23b073.js"
+  "/precache-manifest.cc58db843de32b8171cd10e075474e2d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ourpharm"});
