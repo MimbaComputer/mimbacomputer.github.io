@@ -1,1 +1,0 @@
-{"name":"OurPharm","short_name":"OurPharm","theme_color":"green","icons":[{"src":"./img/icons/icon.png","type":"image/png","sizes":"192x192"},{"src":"./img/icons/icon.png","type":"image/png","sizes":"512x512"}],"start_url":"/","display":"standalone","background_color":"white","orientation":"portrait","scope":"/"}
